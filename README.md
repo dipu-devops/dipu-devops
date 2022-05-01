@@ -2,7 +2,7 @@
 - 👀 I’m interested in cyber security and pentesting
 - 🌱 I’m currently learning Btech in computer science and engineering
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me **https://www.linkedin.com/in/erdipusingh/**
 
 <!---
 Rkssh/Rkssh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
