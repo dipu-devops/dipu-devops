@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Rkssh
-- 👀 I’m interested in cyber security and pentesting
-- 🌱 I’m currently learning Btech in computer science and engineering
+- ✨ DevOps Engineer.
+- 👀 interested in cyber security and pentesting
+- 🌱 I’m currently pursuing Btech in computer science and engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me **https://www.linkedin.com/in/erdipusingh/**
 - 👋 My Bugcrowd Profile **https://bugcrowd.com/deepsingh**
