@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Rkssh
-- ✨ DevOps Engineer.
-- 👀 interested in cyber security and pentesting
+- 👋 Hi, I’m Deep Singh
+- ✨ DevOps Engineer and Web Application Security Researcher
+- 👀 interested in Cloud and Blockchain 
 - 🌱 I’m currently pursuing Btech in computer science and engineering
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking job opportunity on DevOps.
 - 📫 How to reach me **https://www.linkedin.com/in/erdipusingh/**
 - 👋 My Bugcrowd Profile **https://bugcrowd.com/deepsingh**
 
