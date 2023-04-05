@@ -34,15 +34,6 @@ I'm Dipu Singh</h1>
 <a href="https://twitter.com/Rkssh7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Dipu-singh" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/erdipusingh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erdipusingh" height="30" width="40" /></a>
 
-
-- 👋 Hi, I’m Deep Singh
-- ✨ DevOps Engineer and Web Application Security Researcher
-- 👀 interested in Cloud and Blockchain 
-- 🌱 I’m currently pursuing Btech in computer science and engineering
-- 💞️ I’m looking job opportunity on DevOps.
-- 📫 How to reach me **https://www.linkedin.com/in/erdipusingh/**
-- 👋 My Bugcrowd Profile **https://bugcrowd.com/deepsingh**
-
 <!---
 Rkssh/Rkssh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
