@@ -6,8 +6,9 @@ I'm Dipu Singh</h1>
 
 ### About Me🤓
 
-- 🏫 Bachelor in Technology (CSE) || 4th year
-- 📫 You can reach me at: <a href="erdipusingh@gmail.com">erdipusingh@gmail.com</a>
+- 🏫 Bachelor in Technology (CSE) || 2023
+- 🏫 Diploma in Computer Science and engineering (CSE) || 2019
+- 📫 You can reach me at: <a href="dipu.devops@gmail.com">dipu.devops@gmail.com</a>
 
 ### DevOps Techstack 
 
