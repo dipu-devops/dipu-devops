@@ -1,4 +1,3 @@
-<h1 align="left">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">,
  <h2 align="center">Hello there! My name is Dipu. 👋🤓</h2>
 <p align="center">I'm a Cloud and DevOps Engineer from India with a strong passion for teaching. You'll often find me creating tutorials on tools and technologies essential for DevOps practices. These include Docker, Kubernetes, Helm, Ansible, Terraform, Jenkins, Git, and more. Kindly support my YouTube channel https://www.youtube.com/@DevopsWithDipu </p>
 
@@ -56,14 +55,6 @@
  -->
  | <a href="https://github.com/Rkssh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Rkssh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rkssh&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-
-<hr>
-
-
-
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
