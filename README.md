@@ -48,12 +48,12 @@
 ![ZigBee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)
 
 ## ⚡ My GitHub Stats
-<!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Rkssh&show_icons=true&theme=gotham" alt="Rkssh" />
+<!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=dipu-devops&show_icons=true&theme=gotham" alt="dipu-devops" />
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Rkssh&show_icons=true&line_height=27&include_all_commits=true"/> 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rkssh&hide=TeX&layout=compact)
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dipu-devops&show_icons=true&line_height=27&include_all_commits=true"/> 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipu-devops&hide=TeX&layout=compact)
  -->
- | <a href="https://github.com/Rkssh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Rkssh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rkssh&layout=compact&theme=buefy&hide_border=true" /></a> |
+ | <a href="https://github.com/dipu-devops/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dipu-devops&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipu-devops&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <h3 align="left">Connect with me:</h3>
