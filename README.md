@@ -3,7 +3,7 @@
 
 ## ⚡ Updates
 
-- 🔭 I’m currently working on building my own website https://www.dipu.rkssh.com and making YouTube Videos for teaching DevOps<br/>
+- 🔭 I’m currently working on building my own website https://dipu.rkssh.com and making YouTube Videos for teaching DevOps<br/>
 - 🌱 Recently completed Terraform certifications and preparing for CKA, CKAD and CKS<br/>
 - 👯 I’m writing blogs on medium.<br/>
 - 💬 I write blogs on cloud and DevOps!<br/>
