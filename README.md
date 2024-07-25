@@ -3,7 +3,7 @@
 
 ## ⚡ Updates
 
-- 🔭 I’m currently working on building my own website https://dipu.rkssh.com and making YouTube Videos for teaching DevOps<br/>
+- 🔭 I create YouTube Videos for Cloud/DevOps/DevSecOps<br/>
 - 🌱 Recently completed Terraform certifications and preparing for CKA, CKAD and CKS<br/>
 - 👯 I’m writing blogs on medium.<br/>
 - 💬 I write blogs on cloud and DevOps!<br/>
@@ -11,9 +11,12 @@
 - ⚡ Fun fact: I love watching sitcoms and posting videos to my channel https://www.youtube.com/@DevopsWithDipu Tech & Shopping addict :P<br/>
 
 ## ⚡ Domains
-- DevOps
+
 - Cloud
+- DevOps
+- DevSecOps
 - Programming
+- Bug Bounty
 
 ## ⚡ Tech Stack
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
