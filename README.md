@@ -1,5 +1,5 @@
  <h2 align="center">Hello there! My name is Dipu. 👋🤓</h2>
-<p align="center">I'm a Cloud and DevOps Engineer from India with a strong passion for teaching. You'll often find me creating tutorials on tools and technologies essential for DevOps practices. These include Docker, Kubernetes, Helm, Ansible, Terraform, Jenkins, Git, and more. Kindly support my YouTube channel https://www.youtube.com/@DevopsWithDipu </p>
+<p align="center">I'm a Cloud and DevOps Engineer from India with a strong passion for teaching. You'll often find me creating tutorials on tools and technologies essential for DevOps practices. These include Docker, Kubernetes, Helm, Ansible, Terraform, Jenkins, Git, and more. Kindly support my YouTube channel https://www.youtube.com/@TheDevOpsArchitect </p>
 
 ## ⚡ Updates
 
@@ -8,7 +8,7 @@
 - 👯 I’m writing blogs on medium.<br/>
 - 💬 I write blogs on cloud and DevOps!<br/>
 - 📫 How to reach me: Email: dipu.devops@gmail.com <br/>
-- ⚡ Fun fact: I love watching sitcoms and posting videos to my channel https://www.youtube.com/@DevopsWithDipu Tech & Shopping addict :P<br/>
+- ⚡ Fun fact: I love watching sitcoms and posting videos to my channel https://www.youtube.com/@TheDevOpsArchitect Tech & Shopping addict :P<br/>
 
 ## ⚡ Domains
 
